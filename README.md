@@ -1,6 +1,4 @@
-# dwoo-cc
-
-Systems / Algorithms / Tooling
+# Hello! this is dwoo-cc!
 
 ---
 
@@ -8,16 +6,13 @@ Systems / Algorithms / Tooling
 
 - OS: **NixOS**
 - Shell: bash / fish
-- Editor: **Neovim**
+- Editor: **Neovim / vscode**
 
 ## 🔄 Recent Activity
 
 <!-- commits / PRs / issues (auto updated) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dwoo-cc&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dwoo-cc&theme=nord)
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dwoo-cc&show_icons=true&theme=transparent)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwoo-cc&layout=compact&theme=nord&hide_border=true)
