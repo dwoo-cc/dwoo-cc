@@ -15,4 +15,4 @@
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwoo-cc&layout=compact&theme=nord&hide_border=true&cache_seconds=86400)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwoo-cc&layout=compact&theme=nord&hide_border=true&cache_seconds=86400&langs_count=6)
